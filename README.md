@@ -4,15 +4,22 @@ This project leverages machine learning to develop an intelligent crop recommend
 **Features**
 
 **Data-Driven Recommendations:** Analyzes soil and weather parameters to suggest optimal crops.
+
 **Machine Learning Model**: Utilizes a Random Forest algorithm with performance metrics (precision, recall, F1-score) to evaluate effectiveness.
+
 **Class Imbalance Handling:** Addresses underrepresented crop types using data balancing techniques like SMOTE.
+
 **Visual Insights:** Includes confusion matrices and classification reports for detailed performance analysis.
 
 
 **Planned Enhancements**
+
 **Advanced Models:** Explore XGBoost and LightGBM for improved accuracy and handling class imbalances.
+
 **Expanded Dataset:** Add diverse crop types, regions, and climate data for broader applicability.
-**Feature Engineering: **Design composite features to capture complex interactions between soil and weather.
+
+**Feature Engineering:**  Design composite features to capture complex interactions between soil and weather.
+
 **User-Friendly Deployment:** Create mobile or web applications to deliver real-time crop recommendations.
 
 
